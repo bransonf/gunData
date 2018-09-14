@@ -36,4 +36,4 @@ vignettes/*.pdf
 rsconnect/
 
 # Those pesky Unix ._
-*._
+._*
